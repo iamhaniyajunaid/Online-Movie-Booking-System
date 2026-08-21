@@ -1,0 +1,1 @@
+<footer class="text-center text-secondary mt-auto"><div class="footer-main py-3">© {{ date('Y') }} Theatre Admin. All rights reserved.</div><div class="footer-bottom py-2">Powered by Laravel</div></footer>
